@@ -1,0 +1,106 @@
+@relation R_data_frame
+
+@attribute tid {1277-748-1,1447-748-1,1554-748-1,1745-748-1,2094-748-1,2312-748-1,2433-748-1,2467-748-1,3523-748-1,3958-748-1,4350-748-1,4531-748-1,5624-748-1,5833-748-1,5933-748-1,6369-748-1,704-748-1,7231-748-1,8943-748-1,9425-748-1,9887-748-1}
+@attribute item {Acetominifen,Bagels,Batteries,Beer,'Canned Fruit','Canned Vegetables',Cereal,Cheese,Chips,'Chocolate Candy',Coffee,'Cold Remedies',Cookies,'Deli Meats',Dips,Donuts,'Dried Fruit','Dried Meat',Eggs,'Flavored Drinks','French Fries','Fresh Fruit','Fresh Vegetables','Frozen Chicken','Frozen Vegetables',Hamburger,'Hot Dogs','Ice Cream',Jam,Jelly,Lightbulbs,Milk,Muffins,Nuts,'Paper Wipes','Personal Hygiene',Pizza,'Plastic Utensils',Popsicles,Pretzels,Rice,Screwdrivers,'Sliced Bread',Soda,Soup,'Sour Cream',Sugar,Tools,Tuna,Waffles,Wine,Yogurt}
+
+@data
+2094-748-1,'Fresh Vegetables'
+2094-748-1,'Fresh Vegetables'
+2094-748-1,Jam
+2094-748-1,'Paper Wipes'
+2094-748-1,'Ice Cream'
+2094-748-1,Soup
+1277-748-1,'Hot Dogs'
+1277-748-1,Cookies
+1745-748-1,'Sour Cream'
+1745-748-1,'Fresh Vegetables'
+1745-748-1,Wine
+1745-748-1,Popsicles
+1745-748-1,'Fresh Vegetables'
+1745-748-1,Lightbulbs
+1745-748-1,Batteries
+1745-748-1,Milk
+2312-748-1,'Canned Vegetables'
+8943-748-1,Nuts
+8943-748-1,Hamburger
+8943-748-1,'Fresh Vegetables'
+8943-748-1,Lightbulbs
+8943-748-1,Muffins
+8943-748-1,Screwdrivers
+1447-748-1,Waffles
+1447-748-1,Jelly
+1447-748-1,Rice
+1447-748-1,Nuts
+1447-748-1,Jam
+1447-748-1,Cookies
+1447-748-1,Screwdrivers
+5933-748-1,Cookies
+5933-748-1,'Plastic Utensils'
+5933-748-1,Screwdrivers
+5933-748-1,Chips
+5833-748-1,Jam
+2433-748-1,Jelly
+2433-748-1,Soda
+2433-748-1,Popsicles
+4350-748-1,'Cold Remedies'
+5624-748-1,Pizza
+5624-748-1,Batteries
+5624-748-1,'Canned Vegetables'
+5624-748-1,'Sliced Bread'
+2094-748-1,Beer
+2094-748-1,'Dried Fruit'
+2094-748-1,'French Fries'
+2094-748-1,Wine
+2094-748-1,Donuts
+2467-748-1,Pizza
+2467-748-1,'Paper Wipes'
+2467-748-1,Muffins
+2467-748-1,Eggs
+2467-748-1,'Chocolate Candy'
+3523-748-1,Acetominifen
+3523-748-1,Tuna
+3523-748-1,'Flavored Drinks'
+3523-748-1,Eggs
+7231-748-1,'Deli Meats'
+7231-748-1,Sugar
+7231-748-1,Tools
+7231-748-1,'Fresh Fruit'
+7231-748-1,'Fresh Vegetables'
+7231-748-1,Eggs
+1554-748-1,Tools
+1554-748-1,Cereal
+1554-748-1,'Sour Cream'
+1554-748-1,'Canned Fruit'
+1554-748-1,Cheese
+1554-748-1,'Flavored Drinks'
+6369-748-1,'Dried Fruit'
+704-748-1,'Canned Vegetables'
+704-748-1,'Personal Hygiene'
+704-748-1,Soup
+704-748-1,'Fresh Vegetables'
+9887-748-1,Cheese
+9887-748-1,'Frozen Chicken'
+9887-748-1,'Paper Wipes'
+9887-748-1,'Canned Vegetables'
+9887-748-1,Coffee
+9887-748-1,Cookies
+9887-748-1,Cookies
+9425-748-1,Popsicles
+9425-748-1,Screwdrivers
+9425-748-1,'Frozen Vegetables'
+9425-748-1,Wine
+9425-748-1,'Dried Meat'
+9425-748-1,Dips
+9425-748-1,Soup
+9425-748-1,'Dried Fruit'
+3958-748-1,Milk
+3958-748-1,Pretzels
+3958-748-1,'Frozen Vegetables'
+3958-748-1,Bagels
+3958-748-1,Eggs
+3958-748-1,Hamburger
+3958-748-1,Cookies
+4531-748-1,'Fresh Fruit'
+4531-748-1,'Flavored Drinks'
+4531-748-1,'Fresh Vegetables'
+4531-748-1,Yogurt
